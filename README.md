@@ -27,5 +27,16 @@ Berikut ini topologi yang perlu dibuat:
 ---
 ### VLSM
 ---
+Dalam menyelesaikan soal VLSM, kita menggunakan Cisco Packet Tracer. Pertama-tama, kita urutkan terlebih dahulu node yang membutuhkan paling banyak host, menjadi seperti berikut: <br>
+
+![](images/1.PNG)
+
+Selanjutnya, akan menggunakan tabel subnetting berikut untuk menentukan PC Guideau akan memiliki subnet mask berapa:
+
+![](images/2.PNG)
+
+Karena PC Guideau membutuhkan 1000 host, sehingga kita memiliki subnet mask /22. Begitu pun seterusnya sehingga kita mendapatkan data sebagai berikut:
+
+
 ### CIDR
 ---
