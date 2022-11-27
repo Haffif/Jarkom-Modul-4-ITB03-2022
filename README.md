@@ -25,7 +25,7 @@ Berikut ini topologi yang perlu dibuat:
 
 ## Jawaban
 ---
-### VLSM
+### VLSM [REVISI]
 ---
 Hal pertama yang kami lakukan adalah dengan menentukan subnet yang ada pada topologi. Dikarenakan metode yang dipakai adalah VLSM. Kami melingkari tiap host yang terhubung pada interface router dan menghitung IP yang dibutuhkan. Berikut alah gambaran pembagian subnetnya
 
@@ -134,7 +134,7 @@ Testing Ping:
 ![Server-PT The Witch ke Server-PT Beast](./images/Witch-Beast.png)
 - Dari Server-PT The Witch ke PC-PT Corvekt dan sebaliknya.
 ![Server-PT The Witch ke PC-PT Corvekt](./images/Witch-Corvekt.png)
-### CIDR
+### CIDR [REVISI]
 ---
 Berikut langkah-langkah subnetting dan router menggunakan metode CIDR.
 1. Langkah pertama
